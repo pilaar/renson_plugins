@@ -1,5 +1,6 @@
 {
-    "version" : "2.2.2",
+    "version" : "2.2.3",
+    "name": "Dummy",
     "description" : "dummy",
     "metric_source"  : "dummy",
     "metric_type" : "dummy",
